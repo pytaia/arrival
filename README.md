@@ -1,4 +1,4 @@
-# Arrival | Hard | AI
+# Arrival | Hard | AISec
 
 ## Информация
 
